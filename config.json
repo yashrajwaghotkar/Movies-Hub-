@@ -1,0 +1,63 @@
+{
+    "googleSheetApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
+    "sheetNames": [
+        "Sheet1",
+        "Sheet2",
+        "Sheet3"
+    ],
+    "languageSheetName": "Sheet4",
+    "firebaseConfig": {
+        "apiKey": "AIzaSyDjCJBj-w8ye9x0pJJCQZvV-AG_fXu0XW0",
+        "authDomain": "movixhubnetlify.firebaseapp.com",
+        "projectId": "movixhubnetlify",
+        "storageBucket": "movixhubnetlify.firebasestorage.app",
+        "messagingSenderId": "472248490186",
+        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33"
+    },
+    "categoryDetails": {
+        "all": {
+            "name": "Home",
+            "icon": "https://img.icons8.com/fluency-systems-filled/48/ffffff/home.png",
+            "dataKey": null
+        },
+        "movies": {
+            "name": "Movies",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/movie-projector.png",
+            "dataKey": "isMovie"
+        },
+        "series": {
+            "name": "Series",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/tv-show.png",
+            "dataKey": "isSeries"
+        },
+        "anime": {
+            "name": "Anime",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/naruto-sign.png",
+            "dataKey": "isAnime"
+        },
+        "animation": {
+            "name": "Animation",
+            "icon": "https://img.icons8.com/ios-filled/50/ffffff/animation.png",
+            "dataKey": "isAnimation"
+        }
+    },
+    "appConstants": {
+        "defaultSvgIconDataUri": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZGH0PSI2NCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiIHJ5PSIyIj48L3JlY3Q+PGNpcmNsZSBjeD0iOC41IiBjeT0iOC41IiByPSIxLjUiPjwvY2lyY2xlPjxwb2x5bGluZSBwb2ludHM9IjIxIDE1IDE2IDEwIDUgMjEiPjwvcG9seWxpbmU+PC9zdmc+",
+        "defaultProfilePicUrl": "https://i.ibb.co/jZ3dKJY4/user.png",
+        "offlineImageUrl": "https://media.tenor.com/tYzmIQbJnp0AAAAm/penguin-pudgy.webp",
+        "cacheExpiryDuration": 21600000
+    },
+    "storageKeys": {
+        "appCacheKey": "entertainmentAppCache_v13_realtime_validation",
+        "watchHistoryKey": "entertainmentAppWatchHistory",
+        "userNameKey": "entertainmentAppUserName",
+        "userIdKey": "entertainmentAppUserId",
+        "voteStorageKey": "entertainmentAppVotes",
+        "viewStorageKey": "entertainmentAppViews",
+        "autoplayKey": "entertainmentAppAutoplay"
+    },
+    "columnMapping": {
+        "TITLE": 0, "STREAM_URL": 1, "LOGO_URL": 2, "IS_MOVIE": 3, "IS_ANIME": 4, "IS_SERIES": 5, "IS_ANIMATION": 6, "FOLDER_TITLE": 7, "REQUIRES_VPN": 8, "QUALITY_LOW_URL": 9, "QUALITY_MEDIUM_URL": 10, "QUALITY_HIGH_URL": 11, "IS_MAINTENANCE": 12, "WEBSITE_LINK": 13, "WEBSITE_NAME": 14, "IS_TRENDING": 15, "WATERMARK_LOGO_URL": 16, "SPLASH_MEDIA_URL": 17, "LOADER_ANIMATION_URL": 18, "SPLASH_INFO_URL": 19, "SPLASH_INFO_POPUP_TEXT": 20, "ALL_CATEGORIES_INFO_TEXT": 21, "HEADER_IMG_URL": 22, "BADGE_TEXT": 23, "RATING": 24, "DOWNLOAD_URL": 25
+    }
+}
