@@ -18,27 +18,27 @@
     "categoryDetails": {
         "all": {
             "name": "Home",
-            "icon": "https://cdn-icons-png.flaticon.com/128/2163/2163350.png",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11431/11431718.png",
             "dataKey": "all"
         },
         "isMovie": {
             "name": "Movies",
-            "icon": "https://i.ibb.co/hRRrJ83J/watching-a-movie.png",
+            "icon": "https://cdn-icons-png.flaticon.com/128/15557/15557755.png",
             "dataKey": "isMovie"
         },
         "isSeries": {
             "name": "Series",
-            "icon": "https://i.ibb.co/MDbbX2xS/episodes.png",
+            "icon": "https://cdn-icons-png.flaticon.com/128/6553/6553523.png",
             "dataKey": "isSeries"
         },
         "isAnime": {
             "name": "Anime",
-            "icon": "https://cdn-icons-png.flaticon.com/128/16497/16497323.png",
+            "icon": "https://cdn-icons-png.flaticon.com/128/16498/16498727.png",
             "dataKey": "isAnime"
         },
         "isAnimation": {
             "name": "Animation",
-            "icon": "https://cdn-icons-png.flaticon.com/128/1913/1913425.png",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8483/8483811.png",
             "dataKey": "isAnimation"
         }
     }
