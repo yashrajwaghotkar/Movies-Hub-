@@ -1,8 +1,12 @@
 {
     "googleSheetApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
     "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
-    "sheetNames": ["sheet1", "sheet2"],
-    "downloadSheetNames": ["sheet3", "sheet4"],
+    "sheetNames": [
+        "sheet1",
+        "sheet2",
+        "sheet3",
+        "sheet4"
+    ],
     "firebaseConfig": {
         "apiKey": "AIzaSyDjCJBj-w8ye9x0pJJCQZvV-AG_fXu0XW0",
         "authDomain": "movixhubnetlify.firebaseapp.com",
