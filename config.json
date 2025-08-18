@@ -1,1 +1,45 @@
-ewogICAgImdvb2dsZVNoZWV0QXBpS2V5IjogIkFJemFTeUN5dzZpYUF1VmhCRjh2Zmo1ZmVaMWxxN3pCODFpVzFBQSIsCiAgICAic2hlZXRJZCI6ICIxanM3VWZ0SVRKODlzTE9lSDJSQXlqbmNwU0w0WEhXN2VjYmQ0OVVMOHdtQSIsCiAgICAic2hlZXROYW1lcyI6IFsKICAgICAgICAic2hlZXQxIiwKICAgICAgICAic2hlZXQyIiwKICAgICAgICAic2hlZXQzIiwKICAgICAgICAic2hlZXQ0IgogICAgXSwKICAgICJmaXJlYmFzZUNvbmZpZyI6IHsKICAgICAgICAiYXBpS2V5IjogIkFJemFTeURqQ0pCai13OHllOXgwcEpKQ1FadlYtQUdfZlh1MFhXMCIsCiAgICAgICAgImF1dGhEb21haW4iOiAibW92aXhodWJuZXRsaWZ5LmZpcmViYXNlYXBwLmNvbSIsCiAgICAgICAgInByb2plY3RJZCI6ICJtb3ZpeGh1Ym5ldGxpZnkiLAogICAgICAgICJzdG9yYWdlQnVja2V0IjogIm1vdml4aHVibmV0bGlmeS5maXJlYmFzZXN0b3JhZ2UuYXBwIiwKICAgICAgICAibWVzc2FnaW5nU2VuZGVySWQiOiAiNDcyMjQ4NDkwMTg2IiwKICAgICAgICAiYXBwSWQiOiAiMTo0NzIyNDg0OTAxODY6d2ViOjllODMzYjVmZTY1MzhmZGJlNWJjMzMiCiAgICB9LAogICAgImNhdGVnb3J5RGV0YWlscyI6IHsKICAgICAgICAiYWxsIjogewogICAgICAgICAgICAibmFtZSI6ICJIb21lIiwKICAgICAgICAgICAgImljb24iOiAiaHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8xMjgvMTE0MzEvMTE0MzE3MTgucG5nIiwKICAgICAgICAgICAgImRhdGFLZXkiOiAiYWxsIgogICAgICAgIH0sCiAgICAgICAgImlzTW92aWUiOiB7CiAgICAgICAgICAgICJuYW1lIjogIk1vdmllcyIsCiAgICAgICAgICAgICJpY29uIjogImh0dHBzOi8vY2RuLWljb25zLXBuZy5mbGF0aWNvbi5jb20vMTI4LzE1NTU3LzE1NTU3NzU1LnBuZyIsCiAgICAgICAgICAgICJkYXRhS2V5IjogImlzTW92aWUiCiAgICAgICAgfSwKICAgICAgICAiaXNTZXJpZXMiOiB7CiAgICAgICAgICAgICJuYW1lIjogIlNlcmllcyIsCiAgICAgICAgICAgICJpY29uIjogImh0dHBzOi8vY2RuLWljb25zLXBuZy5mbGF0aWNvbi5jb20vMTI4LzY1NTMvNjU1MzUyMy5wbmciLAogICAgICAgICAgICAiZGF0YUtleSI6ICJpc1NlcmllcyIKICAgICAgICB9LAogICAgICAgICJpc0FuaW1lIjogewogICAgICAgICAgICAibmFtZSI6ICJBbmltZSIsCiAgICAgICAgICAgICJpY29uIjogImh0dHBzOi8vY2RuLWljb25zLXBuZy5mbGF0aWNvbi5jb20vMTI4LzE2NDk4LzE2NDk4NzI3LnBuZyIsCiAgICAgICAgICAgICJkYXRhS2V5IjogImlzQW5pbWUiCiAgICAgICAgfSwKICAgICAgICAiaXNBbmltYXRpb24iOiB7CiAgICAgICAgICAgICJuYW1lIjogIkFuaW1hdGlvbiIsCiAgICAgICAgICAgICJpY29uIjogImh0dHBzOi8vY2RuLWljb25zLXBuZy5mbGF0aWNvbi5jb20vMTI4Lzg0ODMvODQ4MzgxMS5wbmciLAogICAgICAgICAgICAiZGF0YUtleSI6ICJpc0FuaW1hdGlvbiIKICAgICAgICB9CiAgICB9Cn0
+{
+    "googleSheetApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
+    "sheetNames": [
+        "sheet1",
+        "sheet2",
+        "sheet3",
+        "sheet4"
+    ],
+    "firebaseConfig": {
+        "apiKey": "AIzaSyDjCJBj-w8ye9x0pJJCQZvV-AG_fXu0XW0",
+        "authDomain": "movixhubnetlify.firebaseapp.com",
+        "projectId": "movixhubnetlify",
+        "storageBucket": "movixhubnetlify.firebasestorage.app",
+        "messagingSenderId": "472248490186",
+        "appId": "1:472248490186:web:9e833b5fe6538fdbe5bc33"
+    },
+    "categoryDetails": {
+        "all": {
+            "name": "Home",
+            "icon": "https://cdn-icons-png.flaticon.com/128/11431/11431718.png",
+            "dataKey": "all"
+        },
+        "isMovie": {
+            "name": "Movies",
+            "icon": "https://cdn-icons-png.flaticon.com/128/15557/15557755.png",
+            "dataKey": "isMovie"
+        },
+        "isSeries": {
+            "name": "Series",
+            "icon": "https://cdn-icons-png.flaticon.com/128/6553/6553523.png",
+            "dataKey": "isSeries"
+        },
+        "isAnime": {
+            "name": "Anime",
+            "icon": "https://cdn-icons-png.flaticon.com/128/16498/16498727.png",
+            "dataKey": "isAnime"
+        },
+        "isAnimation": {
+            "name": "Animation",
+            "icon": "https://cdn-icons-png.flaticon.com/128/8483/8483811.png",
+            "dataKey": "isAnimation"
+        }
+    }
+}
